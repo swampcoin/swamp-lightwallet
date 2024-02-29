@@ -9,9 +9,9 @@ The Swamp Lightwallet Client is a lightweight, user-friendly GUI wallet designed
 - Effortless Transaction Management: Conduct Swamp transactions or receive mining rewards without the need for a full node.
 - Wallet Management: Create, import, and export your Swamp addresses for multiple user profiles with ease.
 - Address Book: Save and manage your contacts in an encrypted address book.
-- Secure Communication: Default TSL-encrypted stunnel connection to the wallet RPC server.
-- Flexible Server Configuration: Switch the wallet RPC server to a local server or a personal VPS by modifying an .env file.
-
+- Secure Communication: TSL-encrypted stunnel connection to the default wallet RPC server.
+- Flexible Server Configuration: Switch the wallet RPC server to a local server or a personal VPS.
+  
 ![grafik](https://github.com/vecocoin/swamp-lightwallet/assets/155781737/f5f3e895-a295-44db-aea9-0394dc947c32)
 
 
